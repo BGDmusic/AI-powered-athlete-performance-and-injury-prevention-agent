@@ -1,0 +1,31 @@
+{
+  "id": "ajay",
+  "profile": {
+    "name": "bharat",
+    "sport": "Cricket",
+    "age": 22,
+    "experience_years": 9,
+    "weight_kg": 65.0,
+    "height_cm": 165
+  },
+  "fitness": {
+    "vo2_max": 48.5,
+    "resting_heart_rate": 60,
+    "flexibility_score": 5.5,
+    "strength_index": 5.5,
+    "body_fat_pct": 15.5,
+    "assessment_date": "2026-11-19"
+  },
+  "training_sessions": [],
+  "recovery_data": [],
+  "injury_history": [
+    {
+      "Injury Type": "Lower Back Pain",
+      "Date": "2024-11-19",
+      "Severity": "Mild",
+      "Recovery Days": 14
+    }
+  ],
+  "ai_results": {},
+  "saved_at": "2026-11-19 13:25"
+}
